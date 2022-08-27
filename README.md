@@ -1,12 +1,12 @@
 ### Hello there visitor 👋
 
-<img src="https://profile-counter.glitch.me/AhmedCodor/count.svg">
+<img src="https://profile-counter.glitch.me/foyezrabbi/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/AhmedCodor.svg?style=social&label=Followers)](https://github.com/foyezrabbi?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/foyezrabbi.svg?style=social&label=Followers)](https://github.com/foyezrabbi?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Rabbi!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=AhmedCodor&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <p align="left"> <a href="https://twitter.com/piccihimu" target="blank"><img src="https://img.shields.io/twitter/follow/piccihimu?logo=twitter&style=for-the-badge" alt="piccihimu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
@@ -31,12 +31,12 @@
 - ⚡ Fun fact: ... I am a movie lover. 😎 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=foyezrabbi&theme=chartreuse-dark" alt="ahmedelotmani"  /></p>
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedCodor&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=AhmedCodor&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foyezrabbi&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <br><br><br><br><br>
 
 <hr>
