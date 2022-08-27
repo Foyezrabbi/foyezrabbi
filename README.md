@@ -26,6 +26,44 @@
           - 📄 <del>Know about my experiences Bruh, I am still a kiddo.</del>
 
             - 🌠 <del>Fun fact</del> **Lmao, I think i am too funny.**
+
+
+
+
+
+
+
+
+- 🔭 I’m currently working on Flutter Projects.
+<!-- - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter -->
+- 👯 I’m looking to collaborate on Flutter Projects.
+- 🤔 I’m lalso working as a Freelancer at Upwork.
+- 💬 Ask me anything you want about Programming or apps Development.
+- 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCNFmUzWMC5uzy8by0hJf9-Q)
+<!-- - 📫 I am also a technical writer at Medium 
+-  📰 Articles: 
+	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
+	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
+
+<p>Connect with me on
+<br>	
+<a target="_blank" href="https://linkedin.com/in/ahmed-el-otmani-0072b51b4"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="mailto:ahmedelotmani200@gmail.com"
+><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+&emsp;
+<a target="_blank" href="https://twitter.com/AhmedCodor"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+&emsp;
+<!-- <a target="_blank" href="https://medium.com/@ahmedbilal575"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
+
+
+
+
+
+
+
+
+
 <br>
 </p>
 - 😄 Pronouns: ... He/Him
