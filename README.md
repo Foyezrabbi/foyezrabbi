@@ -13,37 +13,24 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
 <h3> Here's some fun facts about me: </h3>
 
-- 🍁 <del>I’m currently learning</del> **Python & C++**
+- 🔭 <del>I’m currently learning</del> **Python & C++**
 
   - 🤟 <del>I’m looking for help with</del> **Best Ai bot**
 
-    - 📝 <del>I regularly write articles on</del> [https://piccihimu.bio.link](https://piccihimu.bio.link)
+    - 📝 <del>I regularly write articles on</del> [My Website](https://piccihimu.bio.link)
 
-      - 💬 <del>Ask me about</del> **Anything**
-
-        - 📄 <del>How to reach me</del> **Piccihimu@yahoo.com**
+      - 💬 <del>Ask me anything you want about Programming or apps Development.</del> **Anything**
 
           - 📄 <del>Know about my experiences Bruh, I am still a kiddo.</del>
 
-            - 🌠 <del>Fun fact</del> **Lmao, I think i am too funny.**
+            - 🌠 <del>Fun fact</del> **Lmao, I think i am too funny.**</del>
+           
+            - 📽 <del>I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)</del>
 
 
+ 
 
 
-
-
-
-
-- 🔭 I’m currently working on Flutter Projects.
-<!-- - 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter -->
-- 👯 I’m looking to collaborate on Flutter Projects.
-- 🤔 I’m lalso working as a Freelancer at Upwork.
-- 💬 Ask me anything you want about Programming or apps Development.
-- 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCNFmUzWMC5uzy8by0hJf9-Q)
-<!-- - 📫 I am also a technical writer at Medium 
--  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010) -->
 
 <p>Connect with me on
 <br>	
