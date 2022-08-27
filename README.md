@@ -17,15 +17,15 @@
 
   - 🤟 I’m looking for help with **Best Ai bot**
 
-    - 📝 I regularly write articles on< [My Website](https://piccihimu.bio.link)
+   - 📝 I regularly write articles on< [My Website](https://piccihimu.bio.link)
 
-      - 💬 Ask me anything you want about **Programming or apps Development.**
+     - 💬 Ask me anything about **Programming or apps Development.**
 
-          - 📄 Know about my experiences Bruh, I am still a kiddo.
+       - 📄 Know about my experiences Bruh, I am still a kiddo.
 
-            - 🌠 Fun fact: **Lmao, I think i am too funny.**
+          - 🌠 Fun fact: **Lmao, I think i am too funny.**
            
-            - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
+             - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
 
 
  
