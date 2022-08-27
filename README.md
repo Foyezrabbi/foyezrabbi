@@ -2,9 +2,9 @@
 
 <img src="https://profile-counter.glitch.me/AhmedCodor/count.svg">
 
-[![GitHub followers](https://img.shields.io/github/followers/AhmedCodor.svg?style=social&label=Followers)](https://github.com/AhmedCodor?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/AhmedCodor.svg?style=social&label=Followers)](https://github.com/foyezrabbi?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Ahmed!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Rabbi!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=AhmedCodor&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
