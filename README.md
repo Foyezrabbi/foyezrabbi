@@ -13,19 +13,19 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 <del>I’m currently learning</del> **Python & C++**
+- 🔭 I’m currently learning **Python & C++**
 
-  - 🤟 <del>I’m looking for help with</del> **Best Ai bot**
+  - 🤟 I’m looking for help with **Best Ai bot**
 
-    - 📝 <del>I regularly write articles on</del> [My Website](https://piccihimu.bio.link)
+    - 📝 I regularly write articles on< [My Website](https://piccihimu.bio.link)
 
-      - 💬 <del>Ask me anything you want about Programming or apps Development.</del> **Anything**
+      - 💬 Ask me anything you want about **Programming or apps Development.**
 
-          - 📄 <del>Know about my experiences Bruh, I am still a kiddo.</del>
+          - 📄 Know about my experiences Bruh, I am still a kiddo.
 
-            - 🌠 <del>Fun fact</del> **Lmao, I think i am too funny.**</del>
+            - 🌠 Fun fact: **Lmao, I think i am too funny.**
            
-            - 📽 <del>I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)</del>
+            - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
 
 
  
