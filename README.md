@@ -9,7 +9,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
-<p align="left"> <a href="https://twitter.com/piccihimu" target="blank"><img src="https://img.shields.io/twitter/follow/piccihimu?logo=twitter&style=for-the-badge" alt="piccihimu" /></a> </p>
+<p align="left"> <a href="https://twitter.com/piccihimu" target="blank"><img src="https://img.shields.io/twitter/follow/piccihimu?logo=youtube&style=for-the-badge" alt="piccihimu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
 <h3> Here's some fun facts about me: </h3>
 
