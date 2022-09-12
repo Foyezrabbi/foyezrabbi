@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Rabbi!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+<!-- Add the navbar here <img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
 <p align="left"> <a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/twitter/follow/piccihimu?logo=youtube&style=for-the-badge" alt="piccihimu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
