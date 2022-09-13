@@ -24,8 +24,7 @@
 
 
 
- 
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+
 
 [![IMAGE ALT TEXT](http://damien.pobel.fr/images/youtube-video-github.gif)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
