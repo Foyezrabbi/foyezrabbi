@@ -26,7 +26,7 @@
 
 
 
-[![IMAGE ALT TEXT](http://damien.pobel.fr/images/youtube-video-github.gif)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![IMAGE ALT TEXT](https://i.gifer.com/3jKD.gif)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 <p>Connect with me on
