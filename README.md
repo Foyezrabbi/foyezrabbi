@@ -26,7 +26,7 @@
 
 
 
-[![IMAGE ALT TEXT](https://i.gifer.com/3jKD.gif)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+[![IMAGE ALT TEXT](https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 
 
 <p>Connect with me on
