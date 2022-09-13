@@ -13,8 +13,6 @@
 
 - 🔭 I’m currently learning **Python & C++**
 
-- 🤟 I’m looking for help with **Best Ai bot**
-
 - 📝 I regularly write articles on [My Website](https://piccihimu.bio.link)
 
 - 💬 Ask me anything about **Programming or apps Development.**
