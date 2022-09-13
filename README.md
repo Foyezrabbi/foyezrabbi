@@ -5,8 +5,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/foyezrabbi.svg?style=social&label=Followers)](https://github.com/foyezrabbi?tab=followers)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Hey!+It's+Rabbi!;I'm+a+Flutter+Developer...;I'm+also+a+Pythonista;And+I'm+an+apps+developer.)](https://git.io/typing-svg)
-
 <!-- Add the navbar here <img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
 
 <p align="left"> <a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/twitter/follow/piccihimu?logo=youtube&style=for-the-badge" alt="piccihimu" /></a> </p>
@@ -20,8 +18,6 @@
 - 📝 I regularly write articles on [My Website](https://piccihimu.bio.link)
 
 - 💬 Ask me anything about **Programming or apps Development.**
-
-- 📄 Know about my experiences Bruh, I am still a kiddo.
            
 - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
 
@@ -34,12 +30,13 @@
 
 <p>Connect with me on
 <br>	
-<a target="_blank" href="https://linkedin.com/in/piccihimu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-&emsp;
 <a target="_blank" href="mailto:infiniterabbiex@gmail.com"
 ><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://twitter.com/piccihimu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/piccihimu"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img>
+</a>
+&emsp;
+<a target="_blank" href="https://www.linkedin.com/in/foyez-rabbi-756049242/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <!-- <a target="_blank" href="https://medium.com/@foyezrabbi"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></img></a> -->
 
