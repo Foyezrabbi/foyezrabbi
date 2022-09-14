@@ -11,15 +11,15 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
 <h3> Here's some fun facts about me: </h3>
 
-> * 🔭 I’m currently learning **Python & C++**
+> - 🔭 I’m currently learning **Python & C++**
 
-- 📝 I regularly write articles on [My Website](https://piccihimu.bio.link)
+> - 📝 I regularly write articles on [My Website](https://piccihimu.bio.link)
 
-- 💬 Ask me anything about **Programming or apps Development.**
+> - 💬 Ask me anything about **Programming or apps Development.**
            
-- 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
+> - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
 
-- 🌠 Fun fact: **Lmao, I think i am too funny.**
+> - 🌠 Fun fact: **Lmao, I think i am too funny.**
 
 
 
