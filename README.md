@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
 <h3> Here's some fun facts about me: </h3>
 
-> - 🔭 I’m currently learning **Python & C++**
+> * 🔭 I’m currently learning **Python & C++**
 
 - 📝 I regularly write articles on [My Website](https://piccihimu.bio.link)
 
