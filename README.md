@@ -23,7 +23,7 @@
 
 
 ---
-[![IMAGE ALT TEXT](https://im2.ezgif.com/tmp/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
+[![Code With Rabbi](https://media.discordapp.net/attachments/975282831024615425/1020288403373297664/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
 
 
 <p>Connect with me on
