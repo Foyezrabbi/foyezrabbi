@@ -1,5 +1,5 @@
-<h1 align="center">Hey 💝, I'm PicciHimu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">A passionate Backend developer from Mymensingh. My previous account banned for exploiting git and i know this one sucks</h3>
+<h1 align="center">HEllo There, I'm Foyez Rabbi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h3 align="center">A passionate Backend developer from Mymensingh. My previous account banned for exploiting git and i know this one sucks!</h3>
 
 <img src="https://profile-counter.glitch.me/foyezrabbi/count.svg">
 
