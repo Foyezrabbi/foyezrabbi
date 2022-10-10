@@ -37,7 +37,7 @@
 	<a href="https://www.linkedin.com/in/foyezrabbi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/itwillrabbi/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/foyez_rabbi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/c/UCIFbnPw_X_gdz4ai2U9"><img src="https://img.shields.io/youtube/channel/subscribers/UCzOqZOhMa6NsdVtUbjt1xAw?style=plastic" alt="Snap Chat"/></a>
+	<a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ/"><img src="https://img.shields.io/youtube/channel/subscribers/UCIFbnPw_X_gdz4ai2U9-TFQ?style=plastic" alt="Snap Chat"/></a>
 </p>
 
 
