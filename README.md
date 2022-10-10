@@ -6,7 +6,6 @@
 
 <br>
 
-<img src="https://profile-counter.glitch.me/foyezrabbi/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/foyezrabbi.svg?style=social&label=Followers)](https://github.com/foyezrabbi?tab=followers)
 
