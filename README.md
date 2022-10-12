@@ -1,5 +1,6 @@
 <div align="center">
-<h1<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I'm Foyez Rabbi</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I'm Foyez Rabbi</h1>
+<br>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Creative+Programmer;Youtuber;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
