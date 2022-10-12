@@ -54,7 +54,7 @@
 - ⚡ Fun fact: ... I am a Anime lover. 😎 
 
 ### 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=foyezrabbi&theme=chartreuse-dark" alt="foyezrabbi"  /></p>
+![Foyezrabbi's Github Stats](https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=radical)
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
