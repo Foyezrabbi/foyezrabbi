@@ -3,7 +3,7 @@
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
 	<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a> 
-	
+	<br>
 <!-- download cv button -->
 <a href="https://github.com/foyezrabbi/foyezrabbi/raw/master/files/foyezrabbi.pdf">
 <img src="https://img.shields.io/badge/Download%20CV-Fozle%20Rabbi-blue" />
