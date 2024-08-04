@@ -15,9 +15,8 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Creative+Programmer;Youtuber;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
-
-
 </div>
+
 
 - 👨‍💻 I'm currently learning Python
 - 🔭 I’m currently working on ... python and js
@@ -26,7 +25,7 @@
 - 💬 Ask me about ... python
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:infiniterabbiex@gmail.com> infiniterabbiex@gmail.com</a>
+- 💬 Please feel free to contact me if you need any further information: infiniterabbiex@gmail.com
 - 📌 Visit my portfolio website: [https://fozlerabbi.github.io](https://fozlerabbi.github.io)
 
 ---
