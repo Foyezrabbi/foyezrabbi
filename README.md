@@ -17,7 +17,7 @@
 </p>
 
 
-[!]
+</div>
 
 - 👨‍💻 I'm currently learning Python
 - 🔭 I’m currently working on ... python and js
