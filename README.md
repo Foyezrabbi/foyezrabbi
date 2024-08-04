@@ -2,7 +2,14 @@
 <br>
 <div align="center">
 	<img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
-	<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a>
+	<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a> 
+	
+<!-- download cv button -->
+<a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
+<img src="https://img.shields.io/badge/Download%20CV-Ali%20Eren%20Kayhan-blue" />
+</a>
+ </h4>
+	
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I'm Foyez Rabbi</h1>
 <br>
 
