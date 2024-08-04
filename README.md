@@ -8,12 +8,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CSE+Student;Creative+Programmer;Youtuber;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<br>
 
- <img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
- <br>
 [![wakatime](https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg)](https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd)
-<br>
 
 ### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/in/fozlerabbii)
 
@@ -25,8 +21,8 @@
 - 💬 Ask me about ... python
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:infiniterabbiex@gmail.com>infiniterabbiex@gmail.com</a>
-- 📌 Visit my portfolio website: [https://fozlerabbi.github.io][website]
+- 💬 Please feel free to contact me if you need any further information: <a href="mailto:infiniterabbiex@gmail.com> infiniterabbiex@gmail.com</a>
+- 📌 Visit my portfolio website: [https://fozlerabbi.github.io](https://fozlerabbi.github.io)
 
 ---
 [![Code With Rabbi](https://media.discordapp.net/attachments/975282831024615425/1020288403373297664/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
