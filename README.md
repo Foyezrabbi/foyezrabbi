@@ -11,8 +11,9 @@
 <br>
 
  <img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
+ <br>
 [![wakatime](https://wakatime.com/badge/user/fozlerabbi.svg)](https://wakatime.com/@fozlerabbi)
-### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/mwlite/in/fozlerabbii)
+### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/in/fozlerabbii)
 
 
 - 👨‍💻 I'm currently learning Python
