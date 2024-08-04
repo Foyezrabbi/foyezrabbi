@@ -5,8 +5,8 @@
 	<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a> 
 	
 <!-- download cv button -->
-<a href="https://github.com/Alierenkayhan/Alierenkayhan.github.io/raw/master/files/Ali%20Eren%20Kayhan%20CV.pdf">
-<img src="https://img.shields.io/badge/Download%20CV-Ali%20Eren%20Kayhan-blue" />
+<a href="https://github.com/foyezrabbi/foyezrabbi/raw/master/files/foyezrabbi.pdf">
+<img src="https://img.shields.io/badge/Download%20CV-Fozle%20Rabbi-blue" />
 </a>
  </h4>
 	
