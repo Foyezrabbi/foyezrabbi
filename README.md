@@ -12,17 +12,17 @@
 
 [![wakatime](https://wakatime.com/badge/user/0ee991fb-7142-48fe-88ee-a1d6f57dcbd1.svg)](https://wakatime.com/@0ee991fb-7142-48fe-88ee-a1d6f57dcbd1)
 ### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/mwlite/in/fozlerabbii)
- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" />
+ <img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
 
 
-- 👨‍💻 I'm currently learning Nest.js
-- 🔭 I’m currently working on ... Next.js and Nest.js
-- 👯 I’m looking to collaborate on ... Web application development using Node.js
-- 🤔 I’m looking for help with ... advance Nest.js
+- 👨‍💻 I'm currently learning Python
+- 🔭 I’m currently working on ... python and js
+- 👯 I’m looking to collaborate on ... Web application development using python
+- 🤔 I’m looking for help with ... advance python
 - 💬 Ask me about ... Next.js, Nest.js and Asp.net core
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
+- 💬 Please feel free to contact me if you need any further information: <a href="mailto:infiniterabbiex@gmail.cominfiniterabbiex@gmail.com</a>
 - 📌 Visit my portfolio website: [https://mohiandipta.github.io][website]
 
 ---
