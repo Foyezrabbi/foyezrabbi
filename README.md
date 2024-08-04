@@ -17,6 +17,8 @@
 </p>
 
 
+[!]
+
 - 👨‍💻 I'm currently learning Python
 - 🔭 I’m currently working on ... python and js
 - 👯 I’m looking to collaborate on ... Web application development using python
