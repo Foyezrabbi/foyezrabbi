@@ -11,7 +11,7 @@
 <br>
 
  <img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
-[![wakatime](https://wakatime.com/badge/user/0ee991fb-7142-48fe-88ee-a1d6f57dcbd1.svg)](https://wakatime.com/@0ee991fb-7142-48fe-88ee-a1d6f57dcbd1)
+[![wakatime](https://wakatime.com/badge/user/fozlerabbi.svg)](https://wakatime.com/@fozlerabbi)
 ### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/mwlite/in/fozlerabbii)
 
 
