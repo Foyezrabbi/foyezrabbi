@@ -37,15 +37,21 @@
 	<a href="https://www.linkedin.com/in/foyezrabbi/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/FoyezRabbii/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/foyez_rabbi/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
-	<a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ/"><img src="https://img.shields.io/youtube/channel/subscribers/UCIFbnPw_X_gdz4ai2U9-TFQ?style=plastic" alt="Snap Chat"/></a>
+	<a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ/"><img src="https://img.shields.io/youtube/channel/subscribers/UCIFbnPw_X_gdz4ai2U9-TFQ?style=plastic" alt="Snap Chat"/>
+<a href="https://www.linkedin.com/in/mohian-mustafa-dipta-843567160/"><img alt="LinkedIn" src="https://img.shields.io/badge/mohiandipta-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
+<a href="https://www.facebook.com/obonil.mohian/"><img alt="Facebook" src="https://img.shields.io/badge/mohiandipta-facebook-blue?style=flat&logo=facebook"></a>
+<a href="mailto:mohiandipta.cse@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mohiandipta.cse@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.instagram.com/mohian_dipta/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-mohian_dipta-cyan?style=flat&logo=instagram"></a>
+
+	</a>
 </p>
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&include_all_commits=true&theme=radical" alt="foyezrabbi" width="400" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foyezrabbi&layout=compact&theme=radical" alt="foyezrabbi" width="400" /></p>
-<br><br><br><br><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&include_all_commits=true&theme=radical" alt="foyezrabbi" width ="100%" height = "0" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foyezrabbi&layout=compact&theme=radical" alt="foyezrabbi" width ="100%" height = "200" /></p>
+<br>
 
 <hr>
 
