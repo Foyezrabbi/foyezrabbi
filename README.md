@@ -9,19 +9,23 @@
 </p>
 
 <br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
-<h3> Here's some fun facts about me: </h3>
 
-> - 🔭 I’m currently learning `Python & C++`
+[![wakatime](https://wakatime.com/badge/user/0ee991fb-7142-48fe-88ee-a1d6f57dcbd1.svg)](https://wakatime.com/@0ee991fb-7142-48fe-88ee-a1d6f57dcbd1)
+### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/mwlite/in/fozlerabbii)
 
-> - 📝 I regularly write articles on [My Website](https://piccihimu.bio.link)
+<!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
 
-> - 💬 Ask me anything about `Programming or apps Development.`
-           
-> - 📽 I also publish YouTube videos regularly...[YouTube Channel](https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ)
+> Software Engineer at [Akij Venture Group](https://www.akijventure.com/)
 
-> - 🌠 Fun fact: `Lmao, I think i am too funny.`
-
+- 👨‍💻 I'm currently learning Nest.js
+- 🔭 I’m currently working on ... Next.js and Nest.js
+- 👯 I’m looking to collaborate on ... Web application development using Node.js
+- 🤔 I’m looking for help with ... advance Nest.js
+- 💬 Ask me about ... Next.js, Nest.js and Asp.net core
+- 😄 Pronouns: ... He/Him
+- 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
+- 💬 Please feel free to contact me if you need any further information: <a href="mailto:mohiandipta.cse@gmail.com">mohiandipta.cse@gmail.com</a>
+- 📌 Visit my portfolio website: [https://mohiandipta.github.io][website]
 
 ---
 [![Code With Rabbi](https://media.discordapp.net/attachments/975282831024615425/1020288403373297664/ezgif-2-edb7f48ccc.gif)](https://www.youtube.com/watch?v=hLnwt8hbMFk "Everything Is AWESOME")
