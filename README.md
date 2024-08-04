@@ -12,7 +12,7 @@
 
  <img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
  <br>
-[![wakatime](https://wakatime.com/badge/user/fozlerabbi.svg)](https://wakatime.com/@fozlerabbi)
+[![wakatime](https://wakatime.com/badge/user/b8d9ac63-22cf-44ae-87af-de962edbf61e.svg)](https://wakatime.com/@b8d9ac63-22cf-44ae-87af-de962edbf61e)
 ### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/in/fozlerabbii)
 
 
@@ -23,7 +23,7 @@
 - 💬 Ask me about ... Next.js, Nest.js and Asp.net core
 - 😄 Pronouns: ... He/Him
 - 🕵 I love working with a technically strong team where I can collaborate to solve complex problems
-- 💬 Please feel free to contact me if you need any further information: <a href="mailto:infiniterabbiex@gmail.cominfiniterabbiex@gmail.com</a>
+- 💬 Please feel free to contact me if you need any further information: <a href="mailto:infiniterabbiex@gmail.com>infiniterabbiex@gmail.com</a>
 - 📌 Visit my portfolio website: [https://mohiandipta.github.io][website]
 
 ---
