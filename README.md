@@ -46,9 +46,6 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am an Anime lover. 😎 
 
-### 🔥 Streak Stats
-![Foyezrabbi's Github Stats](https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=radical) 
-
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
 
