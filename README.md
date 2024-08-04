@@ -1,7 +1,8 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" width ="100%" height = "250"/>
 <br>
-<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a>
 <div align="center">
+	<img src="https://komarev.com/ghpvc/?username=foyezrabbi" alt="Fozle Rabbi" />
+	<a href="https://wakatime.com/@b0842085-d6ff-4b6a-bc42-62dd53ffafcd"><img src="https://wakatime.com/badge/user/b0842085-d6ff-4b6a-bc42-62dd53ffafcd.svg" alt="Total time coded since Oct 14 2022" /></a>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I'm Foyez Rabbi</h1>
 <br>
 
