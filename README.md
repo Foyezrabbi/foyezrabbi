@@ -34,7 +34,6 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="https://github.com/foyezrabbi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.facebook.com//"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ/"><img src="https://img.shields.io/youtube/channel/subscribers/UCIFbnPw_X_gdz4ai2U9-TFQ?style=plastic" alt="youtube"/>
         <a href="https://www.linkedin.com/in/fozlerabbii/"><img alt="LinkedIn" src="https://img.shields.io/badge/fozlerabbii-linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
         <a href="https://www.facebook.com/FoyezRabbii/"><img alt="Facebook" src="https://img.shields.io/badge/FoyezRabbii-facebook-blue?style=flat&logo=facebook"></a>
