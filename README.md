@@ -8,12 +8,10 @@
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> 
 
-[![GitHub followers](https://img.shields.io/github/followers/foyezrabbi.svg?style=social&label=Followers)](https://github.com/foyezrabbi?tab=followers)
-
-<!-- Add the navbar here <img src="https://komarev.com/ghpvc/?username=foyezrabbi&label=Views&color=brightgreen&style=flat-square" alt="views on github" /> -->
-
-<p align="left"> <a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/twitter/follow/piccihimu?logo=youtube&style=for-the-badge" alt="piccihimu" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/channel/UCIFbnPw_X_gdz4ai2U9-TFQ?sub_confirmation=1" target="_blank">
+<img src="https://img.shields.io/twitter/follow/piccihimu?logo=youtube&style=for-the-badge" alt="piccihimu" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/9cPNiRhlV6RJI2KjHF/giphy.gif">
 <h3> Here's some fun facts about me: </h3>
 
@@ -51,10 +49,10 @@
 <br>
 </p>
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I am a Anime lover. 😎 
+- ⚡ Fun fact: ... I am an Anime lover. 😎 
 
-<!-- ### 🔥 Streak Stats
-![Foyezrabbi's Github Stats](https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=radical) -->
+### 🔥 Streak Stats
+![Foyezrabbi's Github Stats](https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=radical) 
 
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
@@ -67,7 +65,8 @@
 
 
 
-<!-- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑]("https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=react&border_color=61dafb") -->
+ ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑]("https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=react&border_color=61dafb") 
+ <hr>
 <a href="https://github.com/foyezrabbi/github-readme-activity-graph"><img alt="Foyezrabbi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=foyezrabbi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
