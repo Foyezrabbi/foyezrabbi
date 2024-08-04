@@ -56,12 +56,6 @@
 <hr>
 
 
-
- ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑]("https://github-readme-stats.vercel.app/api?username=foyezrabbi&show_icons=true&theme=react&border_color=61dafb") 
- <hr>
-<a href="https://github.com/foyezrabbi/github-readme-activity-graph"><img alt="Foyezrabbi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=foyezrabbi&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
 <br/>
 
 ## :trophy: Git profile Trophies
