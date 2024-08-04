@@ -12,10 +12,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/0ee991fb-7142-48fe-88ee-a1d6f57dcbd1.svg)](https://wakatime.com/@0ee991fb-7142-48fe-88ee-a1d6f57dcbd1)
 ### Hello there, 👋 I'm [Fozle Rabbi](https://www.linkedin.com/mwlite/in/fozlerabbii)
+ <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" />
 
-<!-- <img src="https://komarev.com/ghpvc/?username=mohiandipta" alt="mohiandipta" /> -->
-
-> Software Engineer at [Akij Venture Group](https://www.akijventure.com/)
 
 - 👨‍💻 I'm currently learning Nest.js
 - 🔭 I’m currently working on ... Next.js and Nest.js
